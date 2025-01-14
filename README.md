@@ -20,3 +20,6 @@ We learned a lot about the implementation of databases, and other developer tool
 
 ## What's next for SmartHealth Records
 We will implement AI solutions to improve the user experience and perform predictive analytics based on the data in each patient file, and many more applications! We will also implement the security measures, such as data encryption and secure data transfer. 
+
+## Video Demo
+[![SmartHealth Records Video Demo](https://img.youtube.com/vi/G88t8h7hel8/0.jpg)](https://www.youtube.com/watch?v=G88t8h7hel8)
